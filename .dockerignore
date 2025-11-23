@@ -1,0 +1,7 @@
+book
+.git
+.gitignore
+*.md
+target
+.DS_Store
+node_modules

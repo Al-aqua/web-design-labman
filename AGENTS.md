@@ -84,6 +84,7 @@ Follow the structured outline in `src/outline.md` for all 10 chapters:
 10. **Chapter 10**: JavaScript Basics - Interactivity & Functionality
 
 Each chapter should follow the template structure from `src/outline.md`:
+
 - **Topics Covered** (technical topics from the 10-chapter curriculum)
 - **Practical Exercise** (hands-on coding task for 2-5 pages, matching outline description)
 - **Skills** (clear learning outcomes, aligned with chapter objectives)
@@ -97,4 +98,3 @@ Each chapter should follow the template structure from `src/outline.md`:
 5. Run `mdbook serve --open` to preview locally at http://localhost:3000
 6. Verify print output (Ctrl+P in browser, save as PDF, target 2-5 pages)
 7. Test all HTML/CSS/JS code in W3Schools editor or browser console
-8. Commit changes: `git add src/ && git commit -m "Add Chapter N: [Title]"`
